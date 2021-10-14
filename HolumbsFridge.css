@@ -1,0 +1,43 @@
+@charset "UTF-8";
+body{
+	padding: 0;
+	margin: 0;
+}
+img{position: absolute}
+.HolumbsFridge{
+  left: -62px;
+  top: 5px;
+	}
+.Vinyl1{
+  left: 999px;
+  top: 75px;
+}
+.Plane{
+  left: 1422px;
+  top: 122px;
+}
+.HotSauce{
+  left: 798px;
+  top: 635px;
+}
+.Brownie{
+  background-image: url("brownie.png");
+  position: absolute;
+  left: 1257px;
+  top: 684px;
+  width: 280px;
+  height: 181px;
+  z-index: 9;
+}
+.Oil {
+  background-image: url("backroundoil.png");
+  opacity: 0.251;
+  position: absolute;
+  left: -200px;
+  top: -3px;
+  width: 2297px;
+  height: 1499px;
+  z-index: 11;
+}
+
+
